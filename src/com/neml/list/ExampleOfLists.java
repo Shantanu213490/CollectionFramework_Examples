@@ -7,6 +7,7 @@ public class ExampleOfLists {
 	
 	public static void main(String[] args) {
 		
+		
 		List<String> languages = new ArrayList<>();
 		languages.add("Java");
 		languages.add("C");
